@@ -1,0 +1,19 @@
+body {
+    margin-top: 80px;
+    background-color: rgb(180, 226, 211);
+    text-align: center;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-align: center;
+}
+
+.logo{
+    height: 70%;
+    width: 80px;
+    margin: 5px 5px 5px 5px;
+    align-items: flex-start;
+}
